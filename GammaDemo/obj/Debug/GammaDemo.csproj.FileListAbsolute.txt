@@ -1,0 +1,11 @@
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\bin\Debug\GammaDemo.exe.config
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\bin\Debug\GammaDemo.exe
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\bin\Debug\GammaDemo.pdb
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\obj\Debug\GammaDemo.csprojResolveAssemblyReference.cache
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\obj\Debug\GammaDemo.Properties.Resources.resources
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\obj\Debug\GammaDemo.csproj.GenerateResource.Cache
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\obj\Debug\GammaDemo.exe
+c:\users\jorge arturo\documents\visual studio 2015\Projects\GammaDemo\GammaDemo\obj\Debug\GammaDemo.pdb
+C:\Users\Jorge Arturo\Source\Repos\GammaDemo\GammaDemo\bin\Debug\GammaDemo.exe.config
+C:\Users\Jorge Arturo\Source\Repos\GammaDemo\GammaDemo\obj\Debug\GammaDemo.exe
+C:\Users\Jorge Arturo\Source\Repos\GammaDemo\GammaDemo\obj\Debug\GammaDemo.pdb
