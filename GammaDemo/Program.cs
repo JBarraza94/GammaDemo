@@ -15,6 +15,7 @@ namespace GammaDemo
         static void Main()
         {
             Console.BackgroundColor.ToString();
+            var variable = CharacterCasing.Normal;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
